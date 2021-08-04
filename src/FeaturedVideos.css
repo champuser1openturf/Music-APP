@@ -1,0 +1,22 @@
+.featuredVideos{
+    display: flex;
+    flex: 0.6;
+    justify-content: space-between;
+    align-items: center
+    ;
+}
+.title-left{
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+    
+
+
+}
+.title-right{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+

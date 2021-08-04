@@ -1,0 +1,27 @@
+.leftMenu{
+    display: flex;
+    height: 40px;
+    color: black;
+    cursor: pointer;
+    transition: 200ms color ease-in;
+    align-items: center;
+    
+}
+
+.leftMenu > p{
+    margin-top: 10px;
+    margin-left: 70px;
+    font-size: 14px;
+    
+}
+
+.leftMenu:hover{
+    color: #FF02D0;
+
+}
+
+.leftMenu-icon{
+    padding-left: 15px;
+    padding-right: 40px;
+}
+
