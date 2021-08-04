@@ -1,6 +1,12 @@
-.popularArtist{
+.popularArtist-title{
     display: flex;
     justify-content: space-between;
     align-items: center;
     
+    
+}  
+
+.popularArtist-title > p{
+    margin-left: 100px;
 }
+
