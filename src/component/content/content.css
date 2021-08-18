@@ -1,0 +1,60 @@
+.content{
+    flex: 0.8;
+    color: black;
+    height: 100vh;
+    background-color: #F7F8FA;
+    overflow-y: overlay;
+    padding-right: 400px;
+    height: 100vh;
+}
+
+.contentItem{
+    display: flex;
+    min-width: 1100px;
+    
+    
+    
+    
+    
+}
+
+.featuredMusic{
+    
+    width: 640px;
+    height: 510px; 
+    margin-left: 40px;
+    margin-right: 25px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 10px;
+    
+    
+
+
+}
+
+.featuredSong{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+    
+    
+}
+
+.popularArtist-item{
+    
+    min-width: 315px;
+    display: flex;
+  
+    
+    margin-left: 30px;
+    
+}
+
+
+
+
+
+
+

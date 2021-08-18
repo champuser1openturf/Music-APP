@@ -1,0 +1,106 @@
+
+.popularArtist-title{
+    display: flex;
+
+    
+}
+
+.popularArtist-title > h4{
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 33px;
+/* identical to box height, or 165% */
+
+letter-spacing: -0.375px;
+
+color: #121B25;
+padding-left: 7px;
+padding-top: 25px;
+
+
+}
+
+.popularArtist-title > p{
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 23px;
+/* identical to box height, or 164% */
+
+letter-spacing: -0.3px;
+
+color: #596675;
+padding-left: 110px;
+padding-top: 30px;
+
+
+}
+
+.popularArtist-content{
+    padding-top: 15px; 
+    margin-right: 10px;
+
+}
+
+
+.popularArtist-item1{
+    margin-right:10px;
+    min-width: 200px;
+    display: flex;
+    
+}
+
+
+
+.popularArtist-item1 > img{
+    width: 60px;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    object-fit: contain;
+    border-radius: 110px;
+    box-shadow: inset;
+    
+
+}
+.artist-name > h4{
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 23px;
+/* identical to box height, or 164% */
+
+letter-spacing: -0.2625px;
+
+color: #121B25;
+padding-top: 7px;
+padding-left: 20px;
+
+
+}
+.artist-name > p{
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 19px;
+/* identical to box height, or 158% */
+
+letter-spacing: -0.257143px;
+
+color: #596675;
+padding-left: 20px;
+
+
+
+}
+.more-icon{
+   margin-left: 50px;
+   align-self:center;
+}
+

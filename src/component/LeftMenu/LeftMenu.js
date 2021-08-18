@@ -5,7 +5,7 @@ function LeftMenu({title,Icon}) {
     return(
         <div className="leftMenu">
             {Icon && <Icon className="leftMenu-icon" />}
-            {Icon ? <h4>{title}</h4> : <p>{title}</p>}
+            {Icon ? <h4>{title}</h4> : <p >{title}</p>}
 
         </div>
     );

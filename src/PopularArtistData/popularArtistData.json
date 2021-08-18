@@ -1,0 +1,64 @@
+{
+    "PopularArtists": [
+        {
+          "id" : "1",
+          "Name": "Arijit Singh",
+          "Followers": "125k  Followers",
+          "imageUrl" : "https://i.ibb.co/R70vBrQ/men.png"
+        },
+        {
+          "id" : "2",
+          "Name": "Shreya Ghoshal",
+          "Followers": "208k  Followers",
+          "imageUrl" : "https://i.ibb.co/GCCdy8t/womens.png"
+        },
+        {
+          "id" : "3",
+          "Name": "Jubin Nautiyal",
+          "Followers": "302k  Followers",
+          "imageUrl" : "https://i.ibb.co/GCCdy8t/womens.png"
+        },
+        {
+          "id" : "4",
+          "Name": "Mohammad Rafi",
+          "Followers": "400k  Followers",
+          "imageUrl" : "https://i.ibb.co/R70vBrQ/men.png"
+        },
+        {
+          "id" : "5",
+          "Name": "Jubin Nautiyal",
+          "Followers": "408k  Followers",
+          "imageUrl" : "https://i.ibb.co/R70vBrQ/men.png"
+        },
+        {
+          "id" : "6",
+          "Name": "Sonu Nigam",
+          "Followers": "106k  Followers",
+          "imageUrl" : "https://i.ibb.co/R70vBrQ/men.png"
+        },
+        {
+          "id" : "7",
+          "Name": "Neeta",
+          "Followers": "98k  Followers",
+          "imageUrl" : "https://i.ibb.co/R70vBrQ/men.png"
+        },
+        {
+          "id" : "8",
+          "Name": "Atif Aslam",
+          "Followers": "300k  Followers",
+          "imageUrl" : "https://i.ibb.co/R70vBrQ/men.png"
+        },
+        {
+          "id" : "9",
+          "Name": "Ayushman Khurana",
+          "Followers": "202k  Followers",
+          "imageUrl" : "https://i.ibb.co/R70vBrQ/men.png"
+        },
+        {
+          "id" : "10",
+          "Name": "Pankaj Udaas",
+          "Followers": "180k  Followers",
+          "imageUrl" : "https://i.ibb.co/R70vBrQ/men.png"
+        } 
+      ]
+}

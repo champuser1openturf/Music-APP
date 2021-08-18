@@ -1,0 +1,33 @@
+.featuredVideos{
+    display: flex;
+    flex: 0.6;
+    justify-content: space-between;
+    align-items: center
+    ;
+}
+.title-left > h2{
+ font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 33px;
+/* identical to box height, or 165% */
+
+letter-spacing: -0.375px;
+
+color: #121B25;
+padding-bottom: 25px;
+padding-left: 10px;
+
+    
+
+
+}
+.title-right{
+    display: flex;
+    padding-bottom: 25px;
+    padding-right: 3px;
+}
+
+
+

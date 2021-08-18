@@ -1,9 +1,9 @@
 import React from 'react';
 import './Player.css';
 
-import Footer from './Footer';
-import LeftComponent from './LeftComponent';
-import Content from './Content';
+import Footer from '../Footer/Footer';
+import LeftComponent from '../LeftComponent/LeftComponent';
+import Content from '../content/content';
 
 function Player({spotify}){
     return (
@@ -17,7 +17,7 @@ function Player({spotify}){
             
                
 
-               <Footer />
+               <Footer spotify={spotify} />
                
             
         </div>

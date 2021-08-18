@@ -1,0 +1,98 @@
+.leftComponent{
+    
+    flex: 0.2;
+    background-color: #EFF0F5;
+    height: 100vh;
+    padding-left: 10px;
+    padding-right: 10px;
+    min-width: 230px;
+    
+    
+
+}
+
+.logoIcon{
+    
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    margin-left: 3px;
+    
+
+}
+
+.logo{
+    
+   display: flex;
+}
+
+
+.logoHeader{
+    margin-top: 20px;
+    padding-right: 45px;
+
+}
+.logoHeader1{
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+letter-spacing: -0.3px;
+color: #121B25;
+padding-top: 3px;
+
+
+}
+
+.logoHeader2{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 23px;
+/* identical to box height, or 164% */
+
+letter-spacing: -0.3px;
+
+color: #596675;
+margin-left: auto;
+}
+
+.leftMenu-Item{
+    position: absolute;
+    left: 1.0%;
+    right: 0.33%;
+    top: 13.60%;
+    bottom: 9.60%;
+    overflow: auto;
+}
+
+
+.podcast{
+    padding-left: 6px;
+}
+
+
+.playlistIcon{
+    display: flex;
+}
+.addIcon{
+    padding-left: 45px;
+}
+
+.leftPlaylist{
+    margin-left: 65px;
+}
+
+.video-logo{
+    color: blueviolet;
+}
+
+.playlist-left{
+    padding-bottom: 2px;
+   
+
+}
+
+
+

@@ -1,8 +1,8 @@
 import React from 'react';
 import './TopMenu.css';
-import {ReactComponent as SearchIcon} from './assets/Search.svg';
-import {ReactComponent as NotificationIcon} from './assets/Notification.svg';
-import {ReactComponent as SettingsIcon} from './assets/Settings.svg';
+import {ReactComponent as SearchIcon} from '../../assets/Search.svg';
+import {ReactComponent as NotificationIcon} from '../../assets/Notification.svg';
+import {ReactComponent as SettingsIcon} from '../../assets/Settings.svg';
 
 const TopMenu =  () =>{
     return(
@@ -11,6 +11,7 @@ const TopMenu =  () =>{
             <div className="topMenu-left">
                 <SearchIcon />
                 <input
+                className="input"
                  placeholder="Search for artists,songs and album...."
                  type="text"
                 />
@@ -20,8 +21,8 @@ const TopMenu =  () =>{
 
             <div className="topMenu-right"> 
 
-            <SettingsIcon  className="header1"/>
-            <NotificationIcon />
+            <SettingsIcon className="headerIcon1" />
+            <NotificationIcon className="headerIcon2"/>
 
 
             </div>

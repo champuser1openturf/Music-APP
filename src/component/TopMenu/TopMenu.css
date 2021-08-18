@@ -1,0 +1,78 @@
+.topMenu{
+    display: flex;
+    justify-content: space-between;
+    width: 1160px;
+    height: 35px;
+    margin-bottom: 30px;
+    padding-top: 12px;
+    margin-top: 10px;
+    
+   
+    
+    
+    
+   
+    
+}
+
+.topMenu-left{
+    flex: 0.5;
+    min-width: 70px;
+    display: flex;
+    
+    color: gray;
+    align-items: center;
+    border-radius: 30px;
+    padding: 10px;
+margin-left: 40px;
+justify-content: space-between;
+
+
+}
+
+.topMenu-left> input{
+
+    border: none;
+   
+    width: 100%;
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 23px;
+/* identical to box height, or 164% */
+
+letter-spacing: -0.3px;
+
+color: #788594;
+margin-left:15px ;
+background: #F7F8FA;
+
+}
+
+
+
+
+.topMenu-right{
+    margin-right: 40px;
+    display: flex;
+    justify-content: space-between;
+
+
+
+}
+
+.headerIcon1{
+    padding-right: 35px;
+}
+
+.headerIcon2{
+    
+    
+    margin-right: 70px;
+}
+
+.headerIcon{
+   
+}
+
